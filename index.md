@@ -10,6 +10,7 @@ Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa
 624 Final Project
 
 ## Manufacurating Process at ABC Beverages
+[View The Code])() 
 
 * Analyzed the manufacturing process of a Mock Beverage Company in order to understand and predict the PH of beverages
 * Built several  Machine Learning Models including a Neural Network, Support Vector Machine, and Random Forest 
