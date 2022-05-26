@@ -1,41 +1,63 @@
-Hello and welcome! This web page showcases the various projects and assignment  that I have worked on. In addition, my resume can be viewed [here](/Resume/Zachary Safir Resume.pdf). 
+# Hello and Welcome! 
+
+This website showcases the various projects and assignment  that I have worked on. In addition, my resume can be viewed [here](/Resume/Zachary Safir Resume.pdf). 
 
 Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa@gmail.com) or by phone at 516-965-1415.
 
 
 
-
-# Master Projects 
-
-624 Final Project
-
+# Projects
 ## Manufacurating Process at ABC Beverages
-[View The Code])() 
+[View The Project](https://rpubs.com/zachsfr/902654) 
 
 * Analyzed the manufacturing process of a Mock Beverage Company in order to understand and predict the PH of beverages
 * Built several  Machine Learning Models including a Neural Network, Support Vector Machine, and Random Forest 
 
 
-Master's Project?
+
 ## Learning Tekken 7
+[View The Slide](/Slides/Learning%20Tekken.pptx)
+[View  the Code]()
 * Designed a framework in Python for a reinforcement learning agent to learn how to play the video game Tekken 7
 * Discovered how to collect and analyze unconventional data, the memory address values of a video game 
 
+
+## Forecasting Cash 
+[View the Project](https://rpubs.com/zachsfr/885466)
+* Developed forecasts on time series data for ATM cash transactions  
+* Worked with advanced forecasting methods including exponential smoothing and ARIMA 
+
 One from 621 Maybe Final Project
 
-Final project 608, earth
+
 ## Visualizing Global Warming
 [View the App](https://global-temp-changes.herokuapp.com/)
 * Crafted an interactive dashboard app to analyze global warming
-* Used Plotly 
+* Developed my app using ploty and dash, cleaned and organize the data using a hybrid of Python Pandas and R tidyverse
+
 
 Simulation Project? 
 
 607 Work For sure, Group project or final both good!
 
-# Undergrad 
 
-OIM 
+# NoteTakers
+[View the Project](/Slides/project-04-writeup.pdf)
+
+* Coded in Python using Django to create NoteTakers.com, a note sharing website where students can upload class notes for discussion and further clarification amongst peers  
+* Collaborated with a team of three to plan and develop the website, by dividing responsibilities effectively and working together to execute each step 
+* Developed the database portion of the website, but also helped in developing several of the web pages 
+
+
+
+# Retaining Telecom Customers
+[View the Slides](/Slides/OIM%20454%20Analytics%20Project.pdf)
+
+* Delved into customer data to discover the key factors that determine how to retain customers
+* Devised an intelligent method for properly highlighting the risk factors by narrowing down the data to the most at  risk of leaving group of customers 
+
+
+
 Health Maybe
 data journal 
 
