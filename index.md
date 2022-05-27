@@ -33,7 +33,6 @@ Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa
 * Developed forecasts on time series data for ATM cash transactions  
 * Worked with advanced forecasting methods including exponential smoothing and ARIMA 
 
-One from 621 Maybe Final Project
 
 
 ## Visualizing Global Warming
@@ -44,7 +43,6 @@ One from 621 Maybe Final Project
 * Developed my app using ploty and dash, cleaned and organize the data using a hybrid of Python Pandas and R tidyverse
 
 
-
 ## Building a Data Pipeline For Data Science Skills
 
 [View the Project](https://rpubs.com/zachsfr/747776)
@@ -52,7 +50,6 @@ One from 621 Maybe Final Project
 * Collaborated on a team to collect web data on data science jobs using web scraping  
 * Combined both Python and R to learn different methods for using both approaches
 * Launched a  remote database using a Raspberry Pi, so all members could connect and share data from anywhere
-
 
 
 # NoteTakers
