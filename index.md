@@ -11,7 +11,7 @@ Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa
 
 [View The Project](https://rpubs.com/zachsfr/902654) 
 
-* Analyzed the manufacturing process of mock Beverage Company in order to understand and predict the PH of beverages
+* Analyzed the manufacturing process of mock beverage company in order to understand and predict the PH of beverages
 * Built several  Machine Learning Models including a Neural Network, Support Vector Machine, and Random Forest 
 
 
