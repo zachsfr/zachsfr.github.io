@@ -40,7 +40,7 @@ Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa
 [View the App](https://global-temp-changes.herokuapp.com/)
 
 * Crafted an interactive dashboard app to analyze global warming
-* Developed my app using ploty and dash, cleaned and organize the data using a hybrid of Python Pandas and R tidyverse
+* Developed my app using ploty and dash, cleaned and organize the data using a hybrid of Python pandas and R tidyverse
 
 
 ## Building a Data Pipeline For Data Science Skills
