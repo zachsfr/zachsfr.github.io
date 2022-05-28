@@ -1,13 +1,13 @@
 # Hello and Welcome! 
 
-This website showcases the various projects and assignment  that I have worked on. In addition, my resume can be viewed [here](/Resume/Zachary Safir Resume.pdf). 
+This website showcases the various projects and assignments  that I have worked on. In addition, my resume can be viewed [here](/Resume/Zachary Safir Resume.pdf). 
 
 Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa@gmail.com) or by phone at 516-965-1415.
 
 
 # Projects
 
-## Manufacurating Process at ABC Beverages
+## Manufacturing Process at ABC Beverages
 
 [View The Project](https://rpubs.com/zachsfr/902654) 
 
@@ -36,7 +36,7 @@ Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa
 [View the App](https://global-temp-changes.herokuapp.com/)
 
 * Crafted an interactive dashboard app to analyze global warming
-* Developed my app using ploty and dash, cleaned and organize the data using a hybrid of Python pandas and R tidyverse
+* Developed the app using ploty and dash, cleaned and organized the data using a hybrid of Python pandas and R tidyverse
 
 
 ## Building a Data Pipeline For Data Science Skills
@@ -62,7 +62,7 @@ Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa
 [View the Slides](/Slides/OIM%20454%20Analytics%20Project.pdf)
 
 * Delved into customer data to discover the key factors that determine how to retain customers
-* Devised an intelligent method for properly highlighting the risk factors by narrowing down the data to the most at  risk of leaving group of customers 
+* Devised an intelligent method for highlighting the risk factors by narrowing down the data to the customers who are most likely to not renew their contracts 
 
 
 
