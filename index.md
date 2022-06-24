@@ -1,6 +1,6 @@
 # Hello and Welcome! 
 
-This website showcases the various projects and assignments  that I have worked on. In addition, my resume can be viewed [here](/Resume/Zachary Safir Resume.pdf). 
+This website showcases the various projects and assignments  that I have worked on. In addition, my resume can be viewed [here](/Resume/Zachary Safir_Resume.pdf). 
 
 Feel free to reach out to me via email at [zacharysa@gmail.com](mailto:zacharysa@gmail.com) or by phone at 516-965-1415.
 
